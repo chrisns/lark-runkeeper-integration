@@ -1,0 +1,6 @@
+[submodule "yaml"]
+	path = yaml
+	url = https://github.com/fabpot/yaml.git
+[submodule "runkeeperAPI"]
+	path = runkeeperAPI
+	url = https://github.com/PierreRASO/runkeeperAPI
